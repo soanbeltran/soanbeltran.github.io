@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>bienvenue sur le site de soso_photo4</h1>
-  <img src="livre.jpg">
+  <img src="livree.jpg">
     
 </body>
 </html>
