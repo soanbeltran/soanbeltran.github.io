@@ -1,5 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>soso</title>
-    <h1>photo prise pas Soan</h1>
-    <img src="file:///C:/Users/soanb/Pictures/club%20photo/light%20painting/DRAGON.JPG">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
+<body>
+  <h1>bienvenue sur le site de soso_photo4</h1>
+  <img src="livre.jpg">
+    
+</body>
+</html>
